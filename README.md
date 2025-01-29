@@ -70,4 +70,5 @@ Postaway is a social media platform API built using Express.js, designed to enab
 ## Contributing
 
 Contributions to the Postaway API are welcome! Feel free to fork the repository, make improvements, and submit pull requests for new features or bug fixes.
-
+## Mini Project Postaway
+  - Problem statement: https://classroom.codingninjas.com/app/classroom/me/25431/content/694261/offering/11351901
